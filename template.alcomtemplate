@@ -1,0 +1,26 @@
+{
+  "$type": "com.anatawa12.vrc-get.custom-template",
+  "formatVersion": "1.0",
+  "displayName": "VRChat Avatars Base",
+  "updateDate": "2025-09-13T09:50:04.780205800Z",
+  "id": "com.anatawa12.vrc-get.user.cc22b31f6257479cba0663f7d5a7eb4f",
+  "base": "com.anatawa12.vrc-get.vrchat.avatars",
+  "unityVersion": "2022.3.22",
+  "vpmDependencies": {
+    "nadena.dev.modular-avatar": ">=1.14.0",
+    "jp.lilxyzw.liltoon": ">=2.2.1",
+    "vrchat.blackstartx.gesture-manager": ">=3.9.4",
+    "net.narazaka.vrchat.floor-adjuster": ">=1.1.0",
+    "com.anatawa12.avatar-optimizer": ">=1.8.13",
+    "jp.lilxyzw.avatar-utils": ">=2.1.2",
+    "com.github.sayamame-beans.kisetene-for-ma": ">=1.2.0",
+    "com.anatawa12.gists": ">=0.18.3",
+    "jp.suzuryg.face-emo": ">=1.5.5",
+    "com.hhotatea.avatar-pose-library": ">=1.1.7",
+    "jp.lilxyzw.lilycalinventory": ">=1.4.5",
+    "net.rs64.tex-trans-tool": ">=1.0.0",
+    "com.github.kurotu.vrc-quest-tools": ">=2.11.3",
+    "jp.lilxyzw.editortoolbox": ">=1.10.0"
+  },
+  "unityPackages": []
+}
