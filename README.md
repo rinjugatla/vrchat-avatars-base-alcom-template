@@ -16,7 +16,7 @@ VRChatプロジェクト、パッケージ管理ツールALCOMのアバター用
 | lilToon                           |      2.2.1 | シェーダー                         |
 | lilAvatarUtils                    |      2.1.2 | テクスチャ、マテリアルの確認       |
 | lilycalInventory                  |      1.4.5 | オブジェクトの出し入れ、明るさ調整 |
-| lilEditorToolbox                  |     1.10.0 | エディタ拡張                       |
+| lilEditorToolbox                  |     1.10.1 | エディタ拡張                       |
 | Non-Destructive Modular Framework |      1.9.0 | 非破壊アバター変換                 |
 | Modular Avatar                    |     1.14.0 | アバター、衣装等の連携             |
 | Floor Adjuster                    |      1.1.0 | アバター高さ位置調整               |
