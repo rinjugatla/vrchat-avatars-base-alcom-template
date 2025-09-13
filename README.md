@@ -28,3 +28,13 @@ VRChatプロジェクト、パッケージ管理ツールALCOMのアバター用
 | TexTransTool                      |      1.0.0 | 髪などのグラデーション管理         |
 | TexTransCore                      |      0.2.0 | TexTransToolのライブラリ           |
 | VRCQuestTools                     |     2.11.3 | アバターQuest対応支援              |
+
+## 使い方
+
+1. [ALCOM](https://vrc-get.anatawa12.com/ja/alcom/)をインストールします
+2. 本リポジトリをダウンロード、解凍します
+![alt text](images/repository-download.png)
+3. ALCOMのテンプレートをインポートから、ダウンロードした`template.alcomtemplate`ファイルをインポートします
+![alt text](images/alcom-template-tab.png)
+4. ALCOMのプロジェクト作成時に`VRChat Avatars Base`テンプレートを選択します
+![alt text](images/template-select.png)
