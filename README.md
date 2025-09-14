@@ -17,6 +17,7 @@ VRChatプロジェクト、パッケージ管理ツールALCOMのアバター用
 | lilAvatarUtils                    |      2.1.2 | テクスチャ、マテリアルの確認       |
 | lilycalInventory                  |      1.4.5 | オブジェクトの出し入れ、明るさ調整 |
 | lilEditorToolbox                  |     1.10.1 | エディタ拡張                       |
+| lilNDMFMeshSimplifier             |      0.3.0 | 非破壊メッシュ削減                 |
 | Gorone System (Supine)            |      4.3.1 | ごろ寝システム                     |
 | Gorone System EX (Supine EX)      |      4.3.2 | ごろ寝システム                     |
 | Non-Destructive Modular Framework |      1.9.0 | 非破壊アバター変換                 |
