@@ -1,0 +1,13 @@
+https://lilxyzw.github.io/vpm-repos/vpm.json
+https://minminmean.github.io/minminmart/index.json
+https://vpm.nadena.dev/vpm.json
+https://vpm.narazaka.net/index.json
+https://vpm.anatawa12.com/vpm.json
+https://sayabeans.github.io/vpm/index.json
+https://suzuryg.github.io/vpm-repos/vpm.json
+https://hhotatea.github.io/AvatarPoseLibrary/index.json
+https://vpm.rs64.net/vpm.json
+https://kurotu.github.io/vpm-repos/vpm.json
+https://bekosantux.github.io/vpm-repos/index.json
+https://an-labo.github.io/An-Labo-NailTool/vpm.json
+https://vcc.vrcfury.com/
