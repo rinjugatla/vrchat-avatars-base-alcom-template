@@ -38,7 +38,18 @@ VRChatプロジェクト、パッケージ管理ツールALCOMのアバター用
 1. [ALCOM](https://vrc-get.anatawa12.com/ja/alcom/)をインストールします
 2. 本リポジトリをダウンロード、解凍します
 ![alt text](images/repository-download.png)
-3. ALCOMのテンプレートをインポートから、ダウンロードした`template.alcomtemplate`ファイルをインポートします
+
+### リポジトリの読み込み
+
+テンプレートで使用するパッケージの配布先を読み込みます。
+
+1. ALCOMのパッケージ&テンプレートのVPNリポジトリを追加から`repositories.txt`を読み込みます
+![alt text](images/ripositories-load.png)
+![alt text](images/repositories-open.png)
+
+### テンプレートの読み込み
+
+1. ALCOMのテンプレートをインポートから、ダウンロードした`template.alcomtemplate`ファイルをインポートします
 ![alt text](images/alcom-template-tab.png)
-4. ALCOMのプロジェクト作成時に`VRChat Avatars Base`テンプレートを選択します
+2. ALCOMのプロジェクト作成時に`VRChat Avatars Base`テンプレートを選択します
 ![alt text](images/template-select.png)
