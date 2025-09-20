@@ -31,6 +31,7 @@ VRChatプロジェクト、パッケージ管理ツールALCOMのアバター用
 | TexTransTool                      |      1.0.0 | 髪などのグラデーション管理         |
 | TexTransCore                      |      0.2.0 | TexTransToolのライブラリ           |
 | VRCQuestTools                     |     2.11.3 | アバターQuest対応支援              |
+| VRCFury                           |   1.1252.0 | 非破壊改変ツール                   |
 
 ## 使い方
 
