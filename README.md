@@ -21,7 +21,7 @@ VRChatプロジェクト、パッケージ管理ツールALCOMのアバター用
 | Gorone System (Supine)            |      4.3.1 | ごろ寝システム                     |
 | Gorone System EX (Supine EX)      |      4.3.2 | ごろ寝システム                     |
 | Non-Destructive Modular Framework |      1.9.0 | 非破壊アバター変換                 |
-| Modular Avatar                    |     1.14.0 | アバター、衣装等の連携             |
+| Modular Avatar                    |     1.14.3 | アバター、衣装等の連携             |
 | Floor Adjuster                    |      1.1.0 | アバター高さ位置調整               |
 | AAO: Avatar Optimizer             |     1.8.13 | 非破壊アバター最適化               |
 | anatawa12's gists pack            |     0.19.0 | アバター最適化結果の確認           |
